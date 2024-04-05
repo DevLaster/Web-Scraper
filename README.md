@@ -28,7 +28,7 @@ this is Web Scraper python script its an simple python code enjoy!
 1. Clone the repo
    ```sh
  git clone https://github.com/DevLaster/Web-Scraper.git
- ```
+ 
 
  2. Run in cmd when you insall all the Libraries
    ```
